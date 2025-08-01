@@ -18,6 +18,8 @@ const roasts = [
   "Even your shadow is embarrassed to be seen with you.",
   "You look like you just lost a fight with a blender.",
   "Your face is like a software update — nobody wants it.",
+  "You’re the reason they invented the ‘no filter’ filter.",
+  "You look like you just woke up from a 10-year nap.",
 ];
 
 navigator.mediaDevices.getUserMedia({ video: { facingMode: "user" } })
