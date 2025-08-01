@@ -20,6 +20,7 @@ const roasts = [
   "Your face is like a software update — nobody wants it.",
   "You’re the reason they invented the ‘no filter’ filter.",
   "You look like you just woke up from a 10-year nap.",
+  "You’re the reason why the front camera exists.",
 ];
 
 navigator.mediaDevices.getUserMedia({ video: { facingMode: "user" } })
