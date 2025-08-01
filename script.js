@@ -11,7 +11,12 @@ const roasts = [
   "You’re not ugly. You're just… ahead of your time.",
   "The camera needs therapy now.",
   "Your face launched a thousand pixels — all running away.",
-  "Even AI is struggling to recognize this masterpiece."
+  "Even AI is struggling to recognize this masterpiece.",
+  "You look like a before picture.",
+  "Your selfie stick just filed for divorce.",
+  "You’re the reason they invented filters.",
+  "Even your shadow is embarrassed to be seen with you.",
+  "You look like you just lost a fight with a blender.",
 ];
 
 navigator.mediaDevices.getUserMedia({ video: { facingMode: "user" } })
