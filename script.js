@@ -17,6 +17,8 @@ const roasts = [
   "You’re the reason they invented filters.",
   "Even your shadow is embarrassed to be seen with you.",
   "You look like you just lost a fight with a blender.",
+  "Your face is like a software update — nobody wants it.",
+  "You’re the reason why the front camera exists.",
 ];
 
 navigator.mediaDevices.getUserMedia({ video: { facingMode: "user" } })
